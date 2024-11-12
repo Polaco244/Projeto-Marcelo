@@ -1,0 +1,23 @@
+/* main,div, img, a, p, h1, h2, i, h4, button,li,ul,main{border: 1px solid black;} */
+
+*{margin: 0;padding: 0;  box-sizing: border-box;list-style: none;}
+
+.cda{overflow: hidden;box-sizing: border-box;}
+
+h1,h2,h3,h4,h5,h6 {font-weight: 500;z-index: 1;}
+
+/* Configuração geral */
+html {
+    scroll-behavior: smooth;
+  }
+  body {
+    color: #eee;
+    font-family: Poppins;
+    margin: 0;
+    background: linear-gradient(to right, #0c755c, #095745);
+  }
+
+
+
+
+/* .hidde-temporary{display: none;} */

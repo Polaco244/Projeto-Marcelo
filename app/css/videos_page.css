@@ -1,0 +1,16 @@
+.title-video {
+  font-size: 25px;
+  color: #ffffff;
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+}
+.video {
+  display: flex;
+  justify-content: center;
+  padding: 20px; /* Espaçamento ao redor do vídeo */
+}
+iframe {
+  margin: 20px 0; /* Espaçamento acima e abaixo */
+  border-radius: 8px; /* Bordas arredondadas, opcional */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para destacar */
+}
